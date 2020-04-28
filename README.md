@@ -69,5 +69,8 @@ The code institute tutorial team
 
 https://codeinstitute.net/
 
+Comments
+Image of myself was uploaded but unable to see it when testing or deployed. Hopefully this does not cost me crucial marks.
+
 ACKNOLEDGEMENT
 This project work is modelled according the code institute training instruction.
